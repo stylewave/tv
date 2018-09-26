@@ -1,0 +1,7 @@
+证书不可用：
+https://blog.csdn.net/sanbingyutuoniao123/article/details/71124655
+
+QueryList
+coreController.php文件
+
+composer require jaeger/querylist
